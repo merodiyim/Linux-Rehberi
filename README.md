@@ -7,4 +7,6 @@ Bir Windows beklemeyin. Uzun süre Windows denemenizden ötürü "Bilgisayar = W
 
 ## Bakmak İsteyebilecekleriniz
 İstediğiniz başlığa buradan bakabilirsiniz.
+*  [Dağıtım Önerileri](https://github.com/merodiyim/Linux-Rehberi/blob/main/src/distro-oneri.md)
 *  [Oyun Nasıl Oynarım?](https://github.com/merodiyim/Linux-Rehberi/blob/main/src/oyun-rehberi.md)
+*  [Ekran Kartı Sürücüsü Nasıl İndirilir](https://github.com/merodiyim/Linux-Rehberi/blob/main/src/gpu-rehberi.md)
