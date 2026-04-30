@@ -53,3 +53,9 @@ __NV_PRIME_RENDER_OFFLOAD=1 __VK_LAYER_NV_optimus=NVIDIA_only __GLX_VENDOR_LIBRA
 EOF
 ```
 ardından sistemi yeniden başlatın
+
+## AMDGPU Kullanıcıları
+Arch Linux için vulkan-radeon pakedini indirebilirsiniz. Başka bir şey yapmanıza gerek yok 
+
+## Intel Arc Kullanıcıları
+Arch Linux için vulkan-intel pakedini indirebilirsiniz. Başka bir şey yapmanıza gerek yok 
