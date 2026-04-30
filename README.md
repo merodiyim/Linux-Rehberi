@@ -7,4 +7,4 @@ Bir Windows beklemeyin. Uzun süre Windows denemenizden ötürü "Bilgisayar = W
 
 ## Bakmak İsteyebilecekleriniz
 İstediğiniz başlığa buradan bakabilirsiniz.
-*  [Oyun Nasıl Oynarım?]()
+*  [Oyun Nasıl Oynarım?](https://github.com/merodiyim/Linux-Rehberi/blob/main/src/oyun-rehberi.md)
