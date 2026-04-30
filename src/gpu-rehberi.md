@@ -10,7 +10,7 @@ CachyOS, NyarchLinux gibi dağıtımlarda hazır yüklü geliyor olsa da Nvidia 
 ```bash
 sudo pacman -S nvidia-open
 ```
-Ardından sistemi yeniden başlatın. Eğer laptop kullanıyorsanız nvidia-open 'a ek olarak nvidia-prime da indirmelisiniz. Laptop kullanıyorsanız arch tabanlı bir dağıtım kullanmanız en iyisi olacaktır.
+Ardından sistemi yeniden başlatın. Eğer laptop kullanıyorsanız `nvidia-open` 'a ek olarak `nvidia-prime` da indirmelisiniz. Laptop kullanıyorsanız arch tabanlı bir dağıtım kullanmanız en iyisi olacaktır.
 
 ### Fedora tabanlı dağıtım kullanıcıları
 ```bash
