@@ -55,7 +55,7 @@ EOF
 ardından sistemi yeniden başlatın
 
 ## AMDGPU Kullanıcıları
-Arch Linux için vulkan-radeon pakedini indirebilirsiniz. Başka bir şey yapmanıza gerek yok 
+Arch Linux için `vulkan-radeon` pakedini indirebilirsiniz. Başka bir şey yapmanıza gerek yok 
 
 ## Intel Arc Kullanıcıları
-Arch Linux için vulkan-intel pakedini indirebilirsiniz. Başka bir şey yapmanıza gerek yok 
+Arch Linux için `vulkan-intel` pakedini indirebilirsiniz. Başka bir şey yapmanıza gerek yok 
