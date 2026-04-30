@@ -1,5 +1,5 @@
 # Linux'ta Oyun Rehberi 
-## \[Not: Bu Rehber Geliştirme Aşamasındadır]
+**\[Not: Bu Rehber Geliştirme Aşamasındadır]**
 Bu rehber aktif olarak geliştiriliyordur ve bitmiş değildir.
 
 Linux, son 4 yılda oyun konusunda epey ilerledi ve TechPowerUp'ın verilerine göre Steam'deki her 10 oyundan 9 tanesini yürütebiliyor. Bu rehberin yazıldığı 30.04.2026 itibariyle Linux 7.0 kerneli yayınlandı ve bu da pek çok donanım için epey iyi bir şey.
