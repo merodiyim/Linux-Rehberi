@@ -1,1 +1,1 @@
-# Linux-Kullan-c-Rehberi
+# Linux Kullanıcı Rehberi
